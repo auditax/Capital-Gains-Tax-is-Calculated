@@ -1,0 +1,3 @@
+# Capital-Gains-Tax-is-Calculated
+Capital gains taxes are a tax on the increase in investment value incurred by individuals or corporations when they sell their investments
+Capital gains can be classified as short-term, long-term, or both. Capital gains short-term in nature, such as gains from securities held for less than one year, are treated as ordinary income. This is based on an individual's tax filing status, adjusted gross income, and tax filing status. Long-term <a href="https://www.auditax.com.au/how-capital-gains-tax-is-calculated/">capital gain </a>, which are gains in securities that have been held for longer than one year, is usually subject to a lower tax rate than regular income.
